@@ -1,2 +1,2 @@
 # Erddap_Modification
-This code is a modification of the rerddapXtracot R package (https://github.com/rmendels/rerddapXtracto). The modified code will retain potentially vital metadata associated with the input data while enabling parallel computing for increased efficiency, particularly for large datasets.  
+This code is a modification of the rerddapXtracot R package (https://github.com/rmendels/rerddapXtracto). The modified code will retain potentially vital metadata associated with the input data while enabling parallel computing for increased efficiency, particularly for large datasets. The code here was produced for daily MUR SST data, but should be applicable to other Erdap datasets.
